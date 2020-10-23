@@ -24,7 +24,7 @@
 
 ### My Projects
 
-- [Python Cheat Sheet](https://github.com/adamhamland/python_cheatsheets)
+- [Python Tutorial/Cheat Sheet](https://github.com/adamhamland/python_cheatsheets)
 - [Micro Projects](https://github.com/adamhamland/micro-projects)
 
 ### Contact
